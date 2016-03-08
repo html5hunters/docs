@@ -13,3 +13,13 @@ reflection in typescript:
 namespances and module:
 * https://github.com/Microsoft/TypeScript-Handbook/blob/master/pages/Namespaces%20and%20Modules.md
 
+mobile:
+* [Creating a Mobile-First Responsive Web Design](http://www.html5rocks.com/en/mobile/responsivedesign/)
+* [Building an amazing fullscreen mobile experience](http://www.html5rocks.com/en/mobile/fullscreen/)
+* [High DPI Canvas](http://www.html5rocks.com/en/tutorials/canvas/hidpi/)
+* [High DPI Images for Variable Pixel Densities](http://www.html5rocks.com/en/mobile/high-dpi/)
+
+
+websites:
+* [Web Fundamentals](https://developers.google.com/web/fundamentals/)
+* [html5rocks](http://www.html5rocks.com/)
