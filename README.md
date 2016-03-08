@@ -16,9 +16,11 @@ namespances and module:
 mobile:
 * [Creating a Mobile-First Responsive Web Design](http://www.html5rocks.com/en/mobile/responsivedesign/)
 * [Building an amazing fullscreen mobile experience](http://www.html5rocks.com/en/mobile/fullscreen/)
+* ["Mobifying" Your HTML5 Site](http://www.html5rocks.com/en/mobile/mobifying/)
 * [High DPI Canvas](http://www.html5rocks.com/en/tutorials/canvas/hidpi/)
 * [High DPI Images for Variable Pixel Densities](http://www.html5rocks.com/en/mobile/high-dpi/)
-
+* [A Beginner's Guide to Using the Application Cache](http://www.html5rocks.com/en/tutorials/appcache/beginner/)
+* [Web App Manifest](https://w3c.github.io/manifest/)
 
 websites:
 * [Web Fundamentals](https://developers.google.com/web/fundamentals/)
