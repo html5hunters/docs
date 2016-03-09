@@ -25,3 +25,9 @@ mobile:
 websites:
 * [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 * [html5rocks](http://www.html5rocks.com/)
+
+architecture:
+* [The Clean Architecture](https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+* 
+
+
