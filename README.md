@@ -22,6 +22,9 @@ mobile:
 * [A Beginner's Guide to Using the Application Cache](http://www.html5rocks.com/en/tutorials/appcache/beginner/)
 * [Web App Manifest](https://w3c.github.io/manifest/)
 
+html5:
+* [Case Study: Auto-Resizing HTML5 Games](http://www.html5rocks.com/en/tutorials/casestudies/gopherwoord-studios-resizing-html5-games/)
+
 websites:
 * [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 * [html5rocks](http://www.html5rocks.com/)
