@@ -5,7 +5,10 @@ module bundler:
 
 articles:
 * A great article for starting webpack https://github.com/petehunt/webpack-howto 
-* ES6 Promise&Generator http://www.html5rocks.com/zh/tutorials/es6/promises/
+* ES6 Promise&Generator 
+ * http://www.html5rocks.com/zh/tutorials/es6/promises/
+ * https://www.promisejs.org/
+ * https://github.com/domenic/promises-unwrapping
 
 reflection in typescript:
 * https://github.com/rbuckton/ReflectDecorators
