@@ -1,4 +1,6 @@
 
+Awesome Javascript: https://github.com/sorrycc/awesome-javascript
+
 module bundler:
 * https://webpack.github.io/
 * https://github.com/brunch
