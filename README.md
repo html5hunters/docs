@@ -7,6 +7,15 @@ module bundler:
  * https://github.com/brunch/brunch/issues/1234
  * http://brunch.io/docs/why-brunch
 
+package management:
+* npm https://www.npmjs.com/
+* bower http://bower.io/
+* Jam.js http://jamjs.org/
+* comparison
+  * http://red-badger.com/blog/2013/03/26/jam-js-and-bower/
+  * http://dailyjs.com/2013/01/28/842-components/
+* https://github.com/wilmoore/frontend-packagers
+
 articles:
 * A great article for starting webpack https://github.com/petehunt/webpack-howto 
 * ES6 Promise&Generator 
