@@ -1,7 +1,11 @@
 
 module bundler:
 * https://webpack.github.io/
+* https://github.com/brunch
 * TypeScript loader for webpack https://github.com/TypeStrong/ts-loader
+* Brunch vs. Webpack 
+ * https://github.com/brunch/brunch/issues/1234
+ * http://brunch.io/docs/why-brunch
 
 articles:
 * A great article for starting webpack https://github.com/petehunt/webpack-howto 
