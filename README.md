@@ -18,6 +18,16 @@ package management:
   * http://dailyjs.com/2013/01/28/842-components/
 * https://github.com/wilmoore/frontend-packagers
 
+audio sprite:
+* [Audio Sprites (and fixes for iOS)](https://remysharp.com/2010/12/23/audio-sprites)
+* [HTML5 audio and audio sprites – this should be simple](https://hacks.mozilla.org/2012/04/html5-audio-and-audio-sprites-this-should-be-simple/)
+* [howler.js - Modern Web Audio Javascript Library](https://github.com/goldfire/howler.js)
+* [Jukebox/Howler/CreateJS compatible audio sprite generator](https://github.com/tonistiigi/audiosprite)
+
+keyboards:
+* [Combokeys is a JavaScript library for handling keyboard shortcuts in the browser.](https://github.com/PolicyStat/combokeys)
+* 
+
 articles:
 * A great article for starting webpack https://github.com/petehunt/webpack-howto 
 * ES6 Promise&Generator 
