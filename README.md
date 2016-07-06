@@ -62,5 +62,5 @@ websites:
 architecture:
 * [The Clean Architecture](https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html) - [Video](https://vimeo.com/43612849)
  
-
+Browser status https://developer.microsoft.com/en-us/microsoft-edge/platform/status/httplivestreaminghls
 
