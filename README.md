@@ -64,3 +64,6 @@ architecture:
  
 Browser status https://developer.microsoft.com/en-us/microsoft-edge/platform/status/httplivestreaminghls
 
+Functional Programming 
+* [Javascript Functor, Applicative, Monads in pictures](https://medium.com/@tzehsiang/javascript-functor-applicative-monads-in-pictures-b567c6415221#.6xsoubswt)
+
