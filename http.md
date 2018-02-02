@@ -1,0 +1,1 @@
+- [Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html)
